@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
