@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0151-reverse-words-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
