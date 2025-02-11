@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 ## Binary Search
