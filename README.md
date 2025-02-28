@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
