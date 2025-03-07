@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
