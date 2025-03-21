@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
