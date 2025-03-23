@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -192,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0303-range-sum-query-immutable) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
