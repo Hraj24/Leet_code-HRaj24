@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0728-self-dividing-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2383-add-two-integers) |
 | [3567-convert-date-to-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3567-convert-date-to-binary) |
