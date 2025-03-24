@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0728-self-dividing-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2383-add-two-integers) |
+| [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
 | [3567-convert-date-to-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0074-search-a-2d-matrix) |
+| [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
