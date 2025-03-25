@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0792-binary-search) |
+| [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1580-shuffle-the-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1646-kth-missing-positive-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0728-self-dividing-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1086-divisor-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2383-add-two-integers) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
