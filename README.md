@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0728-self-dividing-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
