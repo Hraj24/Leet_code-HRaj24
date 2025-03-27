@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1580-shuffle-the-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1603-running-sum-of-1d-array) |
 ## Union Find
 |  |
 | ------- |
