@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [3321-type-of-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3321-type-of-triangle) |
 ## Two Pointers
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
