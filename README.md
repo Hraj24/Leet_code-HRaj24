@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0054-spiral-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0081-search-in-rotated-sorted-array-ii) |
