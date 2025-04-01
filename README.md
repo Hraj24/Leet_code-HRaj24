@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
