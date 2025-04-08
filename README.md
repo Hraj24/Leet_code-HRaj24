@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0125-valid-palindrome) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0908-middle-of-the-linked-list) |
 ## Geometry
