@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0237-delete-node-in-a-linked-list) |
