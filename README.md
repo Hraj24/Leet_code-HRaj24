@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0217-contains-duplicate) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0908-middle-of-the-linked-list) |
