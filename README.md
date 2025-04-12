@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0234-palindrome-linked-list) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
 ## Memoization
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0234-palindrome-linked-list) |
