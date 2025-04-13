@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0792-binary-search) |
+| [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1833-find-the-highest-altitude) |
@@ -301,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
