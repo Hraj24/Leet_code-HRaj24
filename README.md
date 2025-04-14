@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3447-clear-digits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
+| [3447-clear-digits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
+| [3447-clear-digits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3447-clear-digits) |
 ## Memoization
 |  |
 | ------- |
