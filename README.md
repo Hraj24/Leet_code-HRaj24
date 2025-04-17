@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3567-convert-date-to-binary) |
+| [3830-find-closest-person](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
