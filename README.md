@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2350-find-closest-number-to-zero) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
 | [3321-type-of-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3321-type-of-triangle) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -346,4 +347,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
