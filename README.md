@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0461-hamming-distance) |
 | [1610-xor-operation-in-an-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2659-number-of-even-and-odd-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
