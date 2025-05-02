@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0367-valid-perfect-square) |
+| [0382-linked-list-random-node](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0441-arranging-coins) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0908-middle-of-the-linked-list) |
@@ -371,4 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2573-remove-nodes-from-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
