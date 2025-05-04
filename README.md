@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2573-remove-nodes-from-linked-list) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0838-design-linked-list) |
 ## Brainteaser
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0225-implement-stack-using-queues) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
