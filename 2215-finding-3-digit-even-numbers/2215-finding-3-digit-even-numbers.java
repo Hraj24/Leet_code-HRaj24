@@ -1,6 +1,7 @@
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
-                List<Integer> result = new ArrayList<>();
+
+        List<Integer> result = new ArrayList<>();
         int[] freq = new int[10];
 
         for (int digit : digits) {
