@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0075-sort-colors) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0061-rotate-list) |
