@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1646-kth-missing-positive-number) |
 | [1833-find-the-highest-altitude](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1833-find-the-highest-altitude) |
+| [1983-maximum-population-year](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
+| [1983-maximum-population-year](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1983-maximum-population-year) |
 ## Simulation
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1833-find-the-highest-altitude) |
+| [1983-maximum-population-year](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Union Find
