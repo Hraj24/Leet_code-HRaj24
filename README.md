@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0898-transpose-matrix) |
 | [0944-smallest-range-i](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0944-smallest-range-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0898-transpose-matrix) |
 | [1195-distribute-candies-to-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1195-distribute-candies-to-people) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2048-build-array-from-permutation) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0898-transpose-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
 ## Prefix Sum
 |  |
