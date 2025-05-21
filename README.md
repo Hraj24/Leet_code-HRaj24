@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0898-transpose-matrix) |
 | [0944-smallest-range-i](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0944-smallest-range-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0461-hamming-distance) |
+| [0861-flipping-an-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2659-number-of-even-and-odd-bits) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0861-flipping-an-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0566-reshape-the-matrix) |
+| [0861-flipping-an-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0898-transpose-matrix) |
 | [1195-distribute-candies-to-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1195-distribute-candies-to-people) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0566-reshape-the-matrix) |
+| [0861-flipping-an-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0898-transpose-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
 ## Prefix Sum
