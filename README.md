@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0152-maximum-product-subarray) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0135-candy) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
