@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0861-flipping-an-image) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0338-counting-bits) |
 | [1086-divisor-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1086-divisor-game) |
 ## Divide and Conquer
 |  |
