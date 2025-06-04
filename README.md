@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0228-summary-ranges) |
+| [0260-single-number-iii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0389-find-the-difference) |
