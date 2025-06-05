@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0461-hamming-distance) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0397-integer-replacement) |
 | [1086-divisor-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1086-divisor-game) |
 ## Divide and Conquer
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0397-integer-replacement) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0397-integer-replacement) |
 ## Backtracking
 |  |
 | ------- |
