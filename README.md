@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0125-valid-palindrome) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0225-implement-stack-using-queues) |
