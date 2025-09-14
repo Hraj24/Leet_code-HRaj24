@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2383-add-two-integers) |
 | [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
 | [2857-total-distance-traveled](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2857-total-distance-traveled) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0326-power-of-three) |
+| [2050-count-good-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2573-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
