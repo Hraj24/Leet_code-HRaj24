@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0898-transpose-matrix) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0898-transpose-matrix) |
 | [1195-distribute-candies-to-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1195-distribute-candies-to-people) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2573-remove-nodes-from-linked-list) |
