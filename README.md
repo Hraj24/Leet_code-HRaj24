@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1666-make-the-string-great) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
 | [3447-clear-digits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3567-convert-date-to-binary) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1666-make-the-string-great) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3447-clear-digits) |
 ## Memoization
