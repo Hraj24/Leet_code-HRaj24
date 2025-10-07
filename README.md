@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3227-find-missing-and-repeated-values](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3321-type-of-triangle) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2215-finding-3-digit-even-numbers) |
+| [3227-find-missing-and-repeated-values](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2857-total-distance-traveled](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3567-convert-date-to-binary) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0898-transpose-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
+| [3227-find-missing-and-repeated-values](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
