@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0303-range-sum-query-immutable) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
