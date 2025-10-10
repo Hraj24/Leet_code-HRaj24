@@ -13,35 +13,35 @@ class Solution {
 
 
 //Using HashSet(Taking Extra Space (O(N)-> Space & O(N)-> Time))
-        // Set<Integer> s=new HashSet<>();
-        // for(int num:nums){
-        //     if(s.contains(num)){
-        //         return num;
-        //     }
-        //     s.add(num);
-        // }
-        // return 0;
+        Set<Integer> s=new HashSet<>();
+        for(int num:nums){
+            if(s.contains(num)){
+                return num;
+            }
+            s.add(num);
+        }
+        return 0;
 
 
 
 //Using Two Pointer(Fast & Slow Pointer)
 
-        int slow=nums[0];
-        int fast=nums[0];
+        // int slow=nums[0];
+        // int fast=nums[0];
 
-        do{
-            slow=nums[slow];
-            fast=nums[nums[fast]];
-        }while(slow!=fast);
+        // do{
+        //     slow=nums[slow];
+        //     fast=nums[nums[fast]];
+        // }while(slow!=fast);
 
 
-        slow=nums[0];
+        // slow=nums[0];
 
-        while(slow!=fast){
-            slow=nums[slow];
-            fast=nums[fast];
-        }
+        // while(slow!=fast){
+        //     slow=nums[slow];
+        //     fast=nums[fast];
+        // }
 
-        return slow;
+        // return slow;
     }
 }
