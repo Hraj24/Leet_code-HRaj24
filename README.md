@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0414-third-maximum-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0441-arranging-coins) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0397-integer-replacement) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0861-flipping-an-image) |
