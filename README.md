@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0147-insertion-sort-list) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0061-rotate-list) |
