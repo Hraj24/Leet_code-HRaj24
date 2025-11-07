@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0496-next-greater-element-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0397-integer-replacement) |
+| [0416-partition-equal-subset-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1086-divisor-game) |
 ## Divide and Conquer
