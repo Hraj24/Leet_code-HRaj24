@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2350-find-closest-number-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2215-finding-3-digit-even-numbers) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
