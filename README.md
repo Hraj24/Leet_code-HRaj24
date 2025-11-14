@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0202-happy-number) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0198-house-robber) |
@@ -530,4 +532,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
