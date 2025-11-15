@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -553,13 +554,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0322-coin-change) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
