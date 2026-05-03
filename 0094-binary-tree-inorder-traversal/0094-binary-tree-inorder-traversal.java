@@ -14,39 +14,17 @@
  * }
  */
 class Solution {
-    private List<Integer> res = new ArrayList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
-        // traverse(root);
-        // return res;
-
-        // Iterative Approach
-        List<Integer> inorder=new ArrayList<>();
-        Stack<TreeNode> st=new Stack<>();
-        TreeNode node=root;
-        while(true){
-            if(node != null){
-                st.push(node);
-                node=node.left;
-            }else{
-                if(st.isEmpty()){
-                    break;
-                }
-                node=st.pop();
-                inorder.add(node.val);
-                node=node.right;
-            }
-        }
-        return inorder;
+        List<Integer> ans=new ArrayList<>();
+        inOrderHelper(root,ans);
+        return ans;
     }
-    
-
-    // Recursive Approach 
-    private void traverse(TreeNode root) {
-        if (root == null) {
+    public void inOrderHelper(TreeNode node,List<Integer> ans){
+        if(node==null){
             return;
         }
-        traverse(root.left);
-        res.add(root.val);
-        traverse(root.right);
+        inOrderHelper(node.left,ans);
+        ans.add(node.val);
+        inOrderHelper(node.right,ans);
     }
 }
