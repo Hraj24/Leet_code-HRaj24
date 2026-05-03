@@ -14,39 +14,17 @@
  * }
  */
 class Solution {
-    //Recursive Techniques
-    private List<Integer> res=new ArrayList<>();
-    public void traversal(TreeNode root){
+    public List<Integer> preorderTraversal(TreeNode root) {
+        List<Integer> ans=new ArrayList<>();
+        preOrderHelper(root,ans);
+        return ans;
+    }
+    public void preOrderHelper(TreeNode root,List<Integer> ans){
         if(root==null){
             return;
         }
-       
-        res.add(root.val);
-        traversal(root.left);
-        traversal(root.right);
-    }
-    public List<Integer> preorderTraversal(TreeNode root) {
-        // traversal(root);
-        // return res;
-
-
-        // Iterative Techniques
-        List<Integer> preorder=new ArrayList<>();
-        if(root==null){
-            return preorder;
-        } 
-        Stack<TreeNode> st=new Stack<>();
-        st.push(root);
-        while(!st.isEmpty()){
-            root=st.pop();
-            preorder.add(root.val);
-            if(root.right!=null){
-                st.push(root.right);
-            }
-            if(root.left!=null){
-                st.push(root.left);
-            }
-        }
-        return preorder;
+        ans.add(root.val);
+        preOrderHelper(root.left,ans);
+        preOrderHelper(root.right,ans);
     }
 }
