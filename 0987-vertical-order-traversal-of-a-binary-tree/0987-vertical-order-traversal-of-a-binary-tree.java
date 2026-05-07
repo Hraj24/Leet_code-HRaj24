@@ -71,34 +71,36 @@
 
 
 class Solution {
-    List<int[]> nodes;
-    public void solve(TreeNode root, int i, int j){
-        if(root==null) return;
-
-        nodes.add(new int[]{j, i, root.val});
-        solve(root.left, i+1, j-1);
-        solve(root.right, i+1, j+1);
-    }
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        nodes = new ArrayList<>();
-        solve(root, 0, 0);
-        Collections.sort(nodes, (a, b) -> {
-            if(a[0]==b[0] && a[1]==b[1]) return a[2]-b[2]; 
-            if(a[0]==b[0]) return a[1]-b[1]; 
-            return a[0]-b[0]; 
-        });
+        List<int[]> nodes = new ArrayList<>();
         
-        List<List<Integer>> res = new ArrayList<>();
-        int i = 0;
-        while(i<nodes.size()){
-            ArrayList<Integer> curr = new ArrayList<>();
-            int col = nodes.get(i)[0];
-            while(i<nodes.size() && nodes.get(i)[0]==col){
-                curr.add(nodes.get(i)[2]);
-                i++;
+        dfs(root, 0, 0, nodes);
+
+        nodes.sort((a, b) -> {
+            if (a[0] != b[0]) return Integer.compare(a[0], b[0]);     
+            if (a[1] != b[1]) return Integer.compare(a[1], b[1]);     
+            return Integer.compare(a[2], b[2]);                       
+        });
+
+        List<List<Integer>> result = new ArrayList<>();
+        int prevCol = Integer.MIN_VALUE;
+
+        
+        for (int[] node : nodes) {
+            int col = node[0], val = node[2];
+            if (col != prevCol) {
+                result.add(new ArrayList<>());
+                prevCol = col;
             }
-            res.add(curr);
+            result.get(result.size() - 1).add(val);
         }
-        return res;
+
+        return result;
+    }  
+    private void dfs(TreeNode node, int row, int col, List<int[]> nodes) {
+        if (node == null) return;
+        nodes.add(new int[]{col, row, node.val});
+        dfs(node.left, row + 1, col - 1, nodes);   
+        dfs(node.right, row + 1, col + 1, nodes);  
     }
 }
