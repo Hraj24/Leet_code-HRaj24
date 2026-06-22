@@ -14,30 +14,18 @@
  * }
  */
 class Solution {
-    private boolean isSameTree(TreeNode p, TreeNode q) {
-        if (p == null && q == null) {
-            return true;
-        }
-        if (p == null || q == null) {
-            return false;
-        }
-        if (p.val != q.val) {
-            return false;
-        }
-        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
-    }
-
-    private boolean helper(TreeNode p, TreeNode q) {
-        if (p == null) {
-            return false;
-        }
-        if (isSameTree(p, q)) {
-            return true;
-        }
-        return helper(p.left, q) || helper(p.right, q);
-    }
-
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        return helper(root, subRoot);
+        if (root == null) {
+            return subRoot == null;
+        }
+        return isSame(root, subRoot) || isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
+    }
+
+    private boolean isSame(TreeNode root, TreeNode subRoot) { 
+        if (root == null && subRoot == null) return true;
+        if (root == null || subRoot == null) return false;
+  
+        if (root.val != subRoot.val) return false;
+        return isSame(root.left, subRoot.left) && isSame(root.right, subRoot.right);
     }
 }
