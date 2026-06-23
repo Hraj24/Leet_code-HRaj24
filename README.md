@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0213-house-robber-ii) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0199-binary-tree-right-side-view) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0199-binary-tree-right-side-view) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0199-binary-tree-right-side-view) |
