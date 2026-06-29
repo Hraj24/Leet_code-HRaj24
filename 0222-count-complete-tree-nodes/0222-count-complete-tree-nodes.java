@@ -14,13 +14,11 @@
  * }
  */
 class Solution {
+    //O(N) Solution
     public int countNodes(TreeNode root) {
-        if(root==null){
-            return 0;
-        }
-        int leftTree=countNodes(root.left);
-        int rightTree=countNodes(root.right);
-
-        return leftTree+rightTree+1;
+        if (root == null)
+        return 0;
+        return 1 + countNodes(root.left) + countNodes(root.right);
     }
+    
 }
