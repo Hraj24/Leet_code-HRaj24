@@ -13,12 +13,52 @@
  *     }
  * }
  */
+// class Solution {
+//     //O(N) Solution
+//     public int countNodes(TreeNode root) {
+//         if (root == null)
+//         return 0;
+//         return 1 + countNodes(root.left) + countNodes(root.right);
+//     }
+    
+// }
+
+
+
+
 class Solution {
-    //O(N) Solution
+    //Less Than O(n) Solution
     public int countNodes(TreeNode root) {
         if (root == null)
-        return 0;
+            return 0;
+
+        int leftHeight = getLeftheight(root);
+        int rightHeight = getRightheight(root);
+
+        if (leftHeight == rightHeight) {
+            return (1 << leftHeight) - 1;
+        }
+
         return 1 + countNodes(root.left) + countNodes(root.right);
     }
-    
+
+    private int getLeftheight(TreeNode node) {
+        int height = 0;
+        while (node != null) {
+            height++;
+            node = node.left;
+        }
+
+        return height;
+    }
+
+    private int getRightheight(TreeNode node) {
+        int height = 0;
+        while (node != null) {
+            height++;
+            node = node.right;
+        }
+
+        return height;
+    }
 }
