@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2350-find-closest-number-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2722-prime-in-diagonal](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2722-prime-in-diagonal) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2215-finding-3-digit-even-numbers) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3321-type-of-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Union Find
 |  |
 | ------- |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Stack
 |  |
@@ -687,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
