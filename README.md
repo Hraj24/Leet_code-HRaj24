@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1580-shuffle-the-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1646-kth-missing-positive-number) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1086-divisor-game) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1250-longest-common-subsequence) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Divide and Conquer
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1250-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1666-make-the-string-great](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1666-make-the-string-great) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
 | [3447-clear-digits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3447-clear-digits) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0948-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
