@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1086-divisor-game) |
 | [1195-distribute-candies-to-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1195-distribute-candies-to-people) |
+| [1323-maximum-69-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1323-maximum-69-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0948-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
+| [1323-maximum-69-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1323-maximum-69-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
