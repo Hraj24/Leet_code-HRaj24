@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0682-baseball-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0881-boats-to-save-people) |
