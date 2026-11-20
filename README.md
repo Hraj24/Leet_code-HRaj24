@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0944-smallest-range-i) |
 | [0948-bag-of-tokens](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0948-bag-of-tokens) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1121-partition-array-for-maximum-sum) |
 | [1293-three-consecutive-odds](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1293-three-consecutive-odds) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0948-bag-of-tokens) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
