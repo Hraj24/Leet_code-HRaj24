@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1250-longest-common-subsequence) |
+| [1328-break-a-palindrome](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1666-make-the-string-great](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1666-make-the-string-great) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1323-maximum-69-number) |
+| [1328-break-a-palindrome](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1833-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
