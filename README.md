@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2350-find-closest-number-to-zero](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2350-find-closest-number-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2215-finding-3-digit-even-numbers) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3321-type-of-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3321-type-of-triangle) |
 ## Two Pointers
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1323-maximum-69-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2032-largest-odd-number-in-string) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Stack
