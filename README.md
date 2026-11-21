@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0728-self-dividing-numbers) |
 | [0944-smallest-range-i](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0944-smallest-range-i) |
+| [0991-broken-calculator](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0991-broken-calculator) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1086-divisor-game) |
 | [1195-distribute-candies-to-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1195-distribute-candies-to-people) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0991-broken-calculator) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1018-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1323-maximum-69-number) |
