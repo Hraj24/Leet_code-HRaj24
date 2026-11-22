@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0583-delete-operation-for-two-strings) |
+| [0649-dota2-senate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1250-longest-common-subsequence) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0624-maximum-distance-in-arrays) |
+| [0649-dota2-senate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0881-boats-to-save-people) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0649-dota2-senate) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
