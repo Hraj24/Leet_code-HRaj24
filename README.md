@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0322-coin-change) |
+| [0330-patching-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0416-partition-equal-subset-sum) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0316-remove-duplicate-letters) |
+| [0330-patching-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0330-patching-array) |
 | [0397-integer-replacement](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0455-assign-cookies) |
