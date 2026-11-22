@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0898-transpose-matrix) |
 | [0944-smallest-range-i](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0944-smallest-range-i) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0948-bag-of-tokens) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0621-task-scheduler) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1983-maximum-population-year](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1983-maximum-population-year) |
 ## Simulation
 |  |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0991-broken-calculator) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
