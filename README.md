@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0763-partition-labels) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0763-partition-labels](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0763-partition-labels) |
 | [0861-flipping-an-image](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0875-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0881-boats-to-save-people) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0763-partition-labels) |
 | [1078-remove-outermost-parentheses](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1250-longest-common-subsequence) |
 | [1328-break-a-palindrome](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1328-break-a-palindrome) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0945-minimum-increment-to-make-array-unique) |
