@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0349-intersection-of-two-arrays) |
+| [0403-frog-jump](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0435-non-overlapping-intervals) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/0494-target-sum) |
