@@ -3,7 +3,7 @@ class Solution {
     long [][]dp;
     public long maxAlternatingSum(int[] nums) {
         n=nums.length;
-        dp=new long[1000001][2];
+        dp=new long[n+1][2];
         for(int i=0;i<dp.length;i++){
             Arrays.fill(dp[i],-1);
         }
