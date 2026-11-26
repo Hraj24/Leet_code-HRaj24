@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3321-type-of-triangle) |
+| [3360-stone-removal-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3360-stone-removal-game) |
 | [3371-harshad-number](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3567-convert-date-to-binary) |
 | [3830-find-closest-person](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3830-find-closest-person) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2857-total-distance-traveled](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2857-total-distance-traveled) |
+| [3360-stone-removal-game](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3360-stone-removal-game) |
 | [3447-clear-digits](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
