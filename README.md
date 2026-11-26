@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1833-find-the-highest-altitude](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1833-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1833-maximum-ice-cream-bars) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1983-maximum-population-year](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/2048-build-array-from-permutation) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1250-longest-common-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
