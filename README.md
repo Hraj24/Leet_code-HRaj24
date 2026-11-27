@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3321-type-of-triangle) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3693-climbing-stairs-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3693-climbing-stairs-ii](https://github.com/Hraj24/Leet_code-Hraj24-/tree/master/3693-climbing-stairs-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
